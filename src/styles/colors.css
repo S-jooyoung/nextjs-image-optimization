@@ -1,0 +1,19 @@
+.highlight-color {
+    @apply text-[#6c63ff]
+}
+.highlight-bg-color {
+    @apply bg-[#6c63ff]
+}
+.highlight-hover-color {
+    @apply hover:text-[#5048f3]
+}
+.highlight-bg-hover-color {
+    @apply hover:bg-[#5048f3]
+}
+.primary-text-color {
+    @apply text-[#000]
+}
+.secondary-text-color {
+    @apply text-[#4e5968]
+}
+
